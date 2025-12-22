@@ -3,6 +3,7 @@ VNA Software based on LabView
 
 Supported Sources:
 - S1P/S2P-Files
+- CSV-Export from Siglent SSA/SVA
 - NanoVNA-F V2 (Others may work)
 - Siglent SSA/SVA
 
