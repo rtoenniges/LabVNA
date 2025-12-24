@@ -118,7 +118,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{445C4059-D8D0-4724-B186-4D6BBD03F772}</Property>
-				<Property Name="Bld_version.build" Type="Int">79</Property>
+				<Property Name="Bld_version.build" Type="Int">80</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">labvna.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/LabVNA/labvna.exe</Property>
@@ -350,7 +350,7 @@
 				<Property Name="INST_defaultDir" Type="Str">{70956F89-E647-4CD1-8925-C8840717B4E5}</Property>
 				<Property Name="INST_installerName" Type="Str">install.exe</Property>
 				<Property Name="INST_productName" Type="Str">LabVNA</Property>
-				<Property Name="INST_productVersion" Type="Str">1.0.10</Property>
+				<Property Name="INST_productVersion" Type="Str">1.0.12</Property>
 				<Property Name="InstSpecBitness" Type="Str">32-bit</Property>
 				<Property Name="InstSpecVersion" Type="Str">25338003</Property>
 				<Property Name="MSI_autoselectDrivers" Type="Bool">true</Property>
